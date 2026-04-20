@@ -1,0 +1,221 @@
+{
+  "nav": {
+    "about": "À propos",
+    "menu": "Menu",
+    "gallery": "Galerie",
+    "testimonials": "Témoignages",
+    "contact": "Contact",
+    "reserve": "Réserver"
+  },
+  "hero": {
+    "tagline": "Expérience Gastronomique",
+    "title1": "Vivez le",
+    "titleAccent": "Goût",
+    "title2": "de l'Excellence",
+    "subtitle": "Où chaque plat raconte une histoire et chaque bouchée est un souvenir. Plongez dans un voyage culinaire conçu avec passion, précision et les meilleurs ingrédients de saison.",
+    "viewMenu": "Voir Notre Menu",
+    "reserveTable": "Réserver une Table",
+    "stats": {
+      "years": "Années d'Expérience",
+      "dishes": "Plats Signature",
+      "guests": "Clients Satisfaits"
+    }
+  },
+  "about": {
+    "sectionTag": "Notre Histoire",
+    "title1": "Un Héritage Culinaire",
+    "titleAccent": "Né de la Passion",
+    "p1": "Fondé en 2009 par le chef renommé Marco Aurelio, Aurum Bistro est né d'un rêve : apporter l'âme de la cuisine méditerranéenne au cœur de la ville. Niché dans un espace chaleureusement éclairé, conçu pour la convivialité et la célébration, nous croyons que la nourriture est le langage universel de l'amour.",
+    "p2": "Chaque plat de notre menu reflète notre engagement envers la qualité — produits locaux, recettes ancestrales et art culinaire moderne réunis en parfaite harmonie. Nous ne servons pas que des repas ; nous créons des expériences qui perdurent bien après la dernière bouchée.",
+    "badges": {
+      "michelin": "Recommandé Michelin",
+      "organic": "100% Bio",
+      "chefs": "Chefs Experts"
+    },
+    "cta": "Explorer Notre Menu",
+    "years": "Années d'Excellence",
+    "rating": "4.9 / 5.0 Note",
+    "reviews": "2 400+ avis"
+  },
+  "menu": {
+    "sectionTag": "Notre Menu",
+    "title1": "Conçu pour",
+    "titleAccent": "Ravir",
+    "subtitle": "Chaque plat est un chef-d'œuvre, composé avec soin à partir d'ingrédients sélectionnés à leur apogée.",
+    "addToOrder": "Ajouter à la Commande",
+    "categories": {
+      "all": "Tout",
+      "starters": "Entrées",
+      "mains": "Plats",
+      "desserts": "Desserts",
+      "drinks": "Boissons"
+    },
+    "tags": {
+      "chefsPick": "Choix du Chef",
+      "seasonal": "Saisonnier",
+      "signature": "Signature",
+      "popular": "Populaire",
+      "vegetarian": "Végétarien",
+      "showstopper": "Spectaculaire",
+      "classic": "Classique"
+    },
+    "dishes": {
+      "burrata": {
+        "name": "Burrata & Tomates Anciennes",
+        "description": "Burrata crémeuse sur un lit de tomates anciennes vibrantes, arrosée de balsamique vieilli et d'huile de basilic frais."
+      },
+      "scallops": {
+        "name": "Saint-Jacques Poêlées",
+        "description": "Noix de Saint-Jacques saisies à la poêle avec purée de chou-fleur, câpres croustillants et sauce beurre citron."
+      },
+      "wagyu": {
+        "name": "Filet de Wagyu",
+        "description": "Wagyu Grade A5, cuit sous vide à la perfection, servi avec purée truffée et asperges rôties."
+      },
+      "seabass": {
+        "name": "Bar de l'Atlantique Rôti",
+        "description": "Bar atlantique avec risotto au safran, citron brûlé et huile d'olive infusée aux herbes."
+      },
+      "risotto": {
+        "name": "Risotto aux Champignons Sauvages",
+        "description": "Riz Arborio mijoté avec porcini, chanterelle et huile de truffe, finalisé au Parmigiano vieilli."
+      },
+      "chocolateSphere": {
+        "name": "Sphère au Chocolat Valrhona",
+        "description": "Sphère de chocolat noir fondue au caramel chaud, coulis de framboises et glace à la vanille."
+      },
+      "cremeBrulee": {
+        "name": "Crème Brûlée Classique",
+        "description": "Crème vanillée soyeuse avec une croûte caramélisée parfaitement torchée, servie avec des fruits frais."
+      },
+      "sangria": {
+        "name": "Sangria Fruit de la Passion",
+        "description": "Sangria maison avec fruit de la passion, nectar de mangue, cava et agrumes frais."
+      }
+    }
+  },
+  "whyUs": {
+    "sectionTag": "Pourquoi Aurum Bistro",
+    "title1": "La Différence",
+    "titleAccent": "Aurum",
+    "subtitle": "Plus qu'un restaurant — une destination où une cuisine exceptionnelle rencontre une ambiance inoubliable.",
+    "features": {
+      "ingredients": {
+        "title": "Ingrédients de la Ferme",
+        "description": "Nous travaillons avec des fermes biologiques locales pour sourcer les produits de saison les plus frais, garantissant que chaque assiette déborde de saveurs naturelles."
+      },
+      "chefs": {
+        "title": "Chefs Primés",
+        "description": "Notre équipe culinaire apporte des décennies d'expérience dans des cuisines étoilées Michelin à travers l'Europe et la Méditerranée."
+      },
+      "recipes": {
+        "title": "Recettes Signature",
+        "description": "Chaque plat est une création originale, perfectionnée au fil des années et ancrée dans des traditions culinaires authentiques."
+      },
+      "atmosphere": {
+        "title": "Atmosphère Intime",
+        "description": "Que ce soit un dîner romantique ou une réunion festive, nos espaces soigneusement conçus créent l'ambiance parfaite."
+      },
+      "service": {
+        "title": "Service Attentionné",
+        "description": "Notre personnel anticipe chacun de vos besoins avec chaleur et discrétion — car un service exceptionnel fait partie de la recette."
+      },
+      "experiences": {
+        "title": "Expériences Mémorables",
+        "description": "De la première impression à la dernière bouchée, nous soignons chaque détail pour que votre soirée devienne un souvenir précieux."
+      }
+    }
+  },
+  "gallery": {
+    "sectionTag": "Galerie",
+    "title1": "Un Festin pour",
+    "titleAccent": "les Yeux",
+    "subtitle": "Explorez l'art derrière notre cuisine et la chaleur de nos espaces.",
+    "images": {
+      "platter": "Plateau gastronomique",
+      "pasta": "Pâtes élégantes",
+      "salad": "Salade fraîche",
+      "ambiance": "Ambiance du restaurant",
+      "dessert": "Dressage du dessert",
+      "wine": "Accord vin"
+    }
+  },
+  "testimonials": {
+    "sectionTag": "Témoignages",
+    "title1": "Les Voix de Nos",
+    "titleAccent": "Clients",
+    "subtitle": "Ne nous croyez pas sur parole — écoutez ceux qui ont vécu l'expérience Aurum.",
+    "reviews": {
+      "sophie": "Aurum Bistro est un joyau rare. Le Wagyu Tenderloin était parfaitement exécuté, et l'atmosphère trouvait un équilibre parfait entre intimité et vivacité. Facilement l'une des meilleures expériences culinaires de l'année.",
+      "james": "Chaque détail était soigné — du menu manuscrit à l'accord parfait du sommelier. La Sphère au Chocolat m'a laissé sans voix. Je reviendrai à chaque visite dans cette ville.",
+      "amelia": "Nous avons célébré notre anniversaire ici et c'était magique. Le personnel se souvenait de notre nom, la table était ornée de fleurs, et le menu dégustation était extraordinaire. Un luxe pur à chaque instant."
+    },
+    "roles": {
+      "sophie": "Critique Gastronomique, Bon Appétit",
+      "james": "Blogueur Voyage & Lifestyle",
+      "amelia": "Entrepreneur & Passionné de Cuisine"
+    }
+  },
+  "cta": {
+    "sectionTag": "Réservez Votre Table",
+    "title1": "Votre Soirée Parfaite",
+    "titleAccent": "Vous Attend",
+    "subtitle": "Que ce soit une occasion spéciale ou simplement le désir de l'extraordinaire — nous sommes prêts à rendre votre soirée inoubliable. Réservez votre table dès aujourd'hui.",
+    "bookTable": "Réserver une Table",
+    "whatsapp": "Commander via WhatsApp",
+    "hours": {
+      "monThu": "Lun – Jeu",
+      "friSat": "Ven – Sam",
+      "sunday": "Dimanche"
+    }
+  },
+  "contact": {
+    "sectionTag": "Contactez-nous",
+    "title1": "Trouvez-nous &",
+    "titleAccent": "Réservez",
+    "subtitle": "Nous serions ravis d'avoir de vos nouvelles. Effectuez une réservation ou envoyez-nous un message.",
+    "info": {
+      "address": "Adresse",
+      "reservations": "Réservations",
+      "email": "Email",
+      "hours": "Horaires d'Ouverture",
+      "hoursValue": "Lun–Jeu 12–22h · Ven–Sam 12–23h30 · Dim 13–21h"
+    },
+    "form": {
+      "title": "Effectuer une Réservation",
+      "name": "Nom Complet",
+      "namePlaceholder": "Votre nom",
+      "email": "Email",
+      "date": "Date",
+      "guests": "Convives",
+      "guestsPlaceholder": "Sélectionner les convives",
+      "guestSingular": "Convive",
+      "guestPlural": "Convives",
+      "guestPrivate": "9+ Convives (Salle Privée)",
+      "specialRequests": "Demandes Spéciales",
+      "specialPlaceholder": "Régimes alimentaires, célébrations, arrangements spéciaux...",
+      "submit": "Confirmer la Réservation",
+      "successTitle": "Réservation Reçue !",
+      "successMessage": "Merci ! Nous confirmerons votre table dans les 2 heures.",
+      "another": "Effectuer une autre réservation"
+    }
+  },
+  "footer": {
+    "tagline": "Une expérience gastronomique où la passion rencontre la perfection. Chaque repas est une histoire digne d'être mémorisée.",
+    "quickLinks": "Liens Rapides",
+    "openingHours": "Horaires d'Ouverture",
+    "newsletter": "Newsletter",
+    "newsletterText": "Abonnez-vous pour les menus saisonniers, les événements exclusifs et l'inspiration culinaire.",
+    "newsletterPlaceholder": "Votre email",
+    "join": "Rejoindre",
+    "copyright": "Tous droits réservés.",
+    "privacy": "Politique de Confidentialité",
+    "terms": "Conditions d'Utilisation",
+    "cookies": "Politique des Cookies",
+    "hours": {
+      "monThu": "Lundi – Jeudi",
+      "friSat": "Vendredi – Samedi",
+      "sunday": "Dimanche"
+    }
+  }
+}
