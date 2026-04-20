@@ -15,7 +15,7 @@ export default function Hero() {
   const scrollToContact = () => document.querySelector('#contact')?.scrollIntoView({ behavior: 'smooth' });
 
   return (
-    <section className="relative min-h-screen flex items-center justify-center overflow-hidden">
+    <section className="relative min-h-screen flex items-center justify-center overflow-hidden ">
       <div
         className="absolute inset-0 bg-cover bg-center bg-no-repeat"
         style={{
@@ -31,7 +31,7 @@ export default function Hero() {
           loaded ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-8'
         }`}
       >
-        <p className="text-amber-400 text-sm font-semibold tracking-[0.35em] uppercase mb-6 flex items-center justify-center gap-3">
+        <p className="text-amber-400 text-sm font-semibold tracking-[0.35em] uppercase mb-4 mt-24 flex items-center justify-center gap-3 ">
           <span className="w-8 h-px bg-amber-400" />
           {t('hero.tagline')}
           <span className="w-8 h-px bg-amber-400" />
